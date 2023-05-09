@@ -1,0 +1,29 @@
+.masthead {
+    height: 20em;
+    min-height: 500px;
+    background-image: url("/media/mainBanner.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  .masthead-sm {
+    height: 10em;
+    min-height: 5em;
+    background-image: url("/media/mainBanner.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  .nav-link:hover {
+    color: #fff;
+    background-color: #60cde8ff;
+}
+
+ img {
+  display: block;
+  max-width:350px;
+  width: auto;
+  height: auto;
+}
+.link-muted { color: #aaa; } .link-muted:hover { color: #1266f1; }
