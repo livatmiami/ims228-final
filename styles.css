@@ -1,7 +1,7 @@
 .masthead {
     height: 20em;
     min-height: 500px;
-    background-image: url("/media/mainBanner.png");
+    background-image: url("media/mainBanner.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -10,7 +10,7 @@
   .masthead-sm {
     height: 10em;
     min-height: 5em;
-    background-image: url("/media/mainBanner.png");
+    background-image: url("media/mainBanner.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
